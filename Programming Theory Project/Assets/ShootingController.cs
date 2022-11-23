@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class ShootingController : MonoBehaviour
 {
-    public float moveForce;
     public GameObject bullet;
     public Transform gun;
     public float shootRate;
