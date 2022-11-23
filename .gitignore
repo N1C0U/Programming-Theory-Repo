@@ -2,13 +2,14 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/Programming-Theory-Repo/[Ll]ibrary/
-/Programming-Theory-Repo/[Tt]emp/
-/Programming-Theory-Repo/[Oo]bj/
-/Programming-Theory-Repo/[Bb]uild/
-/Programming-Theory-Repo/[Bb]uilds/
-/Programming-Theory-Repo/[Ll]ogs/
-/Programming-Theory-Repo/[Uu]ser[Ss]ettings/
+/Programming Theory Project/[Ll]ibrary/
+/Programming Theory Project/Library/
+/Programming Theory Project/[Tt]emp/
+/Programming Theory Project/[Oo]bj/
+/Programming Theory Project/[Bb]uild/
+/Programming Theory Project/[Bb]uilds/
+/Programming Theory Project/[Ll]ogs/
+/Programming Theory Project/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -13958,4 +13959,6 @@ Programming Theory Project/Library/Artifacts/2e/2ea53b6808ba5d5fba564055d6efb2be
 Programming Theory Project/Library/Artifacts/21/2178a8a0fa8308fcfa83c6c3cf779a0c
 Programming Theory Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
 Programming Theory Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Programming Theory Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+Programming Theory Project/Library/EditorInstance.json
 Programming Theory Project/Logs/shadercompiler-UnityShaderCompiler.exe0.log

@@ -23,7 +23,6 @@ public class ShootingController : MonoBehaviour
                 go.GetComponent<Rigidbody>().AddForce(gun.forward * shootForce);
                 m_shootRateTimeStamp = Time.time + shootRate;
             }
-
         }
 
     }
