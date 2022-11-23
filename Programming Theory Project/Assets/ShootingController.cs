@@ -24,7 +24,6 @@ public class ShootingController : MonoBehaviour
                 m_shootRateTimeStamp = Time.time + shootRate;
             }
         }
-
     }
 
 }
