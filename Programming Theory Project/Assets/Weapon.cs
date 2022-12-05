@@ -8,7 +8,7 @@ public abstract class Weapon : MonoBehaviour
     public Transform weaponHolder;
 
     public float shootForce;
-    private float m_shootRateTimeStamp;
+    protected float m_shootRateTimeStamp;
 
     private float shootRate = 0;
 

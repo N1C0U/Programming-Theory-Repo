@@ -10,7 +10,12 @@ public class WeaponToggle : MonoBehaviour
     {
         for(int i = 0; i < gameObject.transform.childCount; i++ )
         {
-            gameObject.transform.GetChild(i).gameObject.SetActive(false);
+            // Switch of all weapons but the first
+            if (i != 0)
+            {
+                gameObject.transform.GetChild(i).gameObject.SetActive(false);
+            }
+            
         }
     }
 
